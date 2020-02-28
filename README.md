@@ -12,12 +12,12 @@ This is a proof of a concept project made to test the possibility of controlling
 
 # References
 Created by combining the following examples:
-* "backSoon" example by <jc@wippler.nl>
-  https://github.com/njh/EtherCard/blob/master/examples/backSoon/backSoon.ino
-* "Jingle Bells" example by Emmanuel
-  http://repairmypc.net/2017/08/jingle-bells-arduino-sketch/
-* "SSDP.ino" by Nicholas Humfrey
-  https://github.com/njh/EtherCard/blob/master/examples/SSDP/SSDP.ino
+* *backSoon* example by <jc@wippler.nl>
+  (https://github.com/njh/EtherCard/blob/master/examples/backSoon/backSoon.ino)
+* *Jingle Bells* example by Emmanuel
+  (http://repairmypc.net/2017/08/jingle-bells-arduino-sketch/)
+* *SSDP.ino* by Nicholas Humfrey
+  (https://github.com/njh/EtherCard/blob/master/examples/SSDP/SSDP.ino)
 
   # License
   This work is licensed under GPLv2
