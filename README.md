@@ -6,6 +6,7 @@ This is a proof of a concept project made to test the possibility of controlling
 # Required equipment
 * Arduino (i.e. Uno)
 * a small speaker (i.e. taken from an old laptop)
+  * connect speaker to GND and output pin 9
 * Ethernet Shield using ENC28J60 chip (i.e. DK Ethernet Shield v2.0)
 * a computer with USB cable and Android IDE installed
 * an network switch/hub
