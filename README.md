@@ -21,5 +21,5 @@ Created by combining the following examples:
 * [*Jingle Bells* example](http://repairmypc.net/2017/08/jingle-bells-arduino-sketch/) by Emmanuel
 * [*SSDP.ino*](https://github.com/njh/EtherCard/blob/master/examples/SSDP/SSDP.ino) by Nicholas Humfrey
 
-  # License
-  This work is licensed under GPLv2
+# License
+This work is licensed under GPLv2
